@@ -1,0 +1,78 @@
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe.config
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.pdb
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.g.cs
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.cache
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.lref
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.g.resources
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.Properties.Resources.resources
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.exe
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.pdb
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ButtonStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\RadioButtonStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\TextBoxStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\DataGridStyles.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\Lang\zh-TW.baml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\Lang\en-US.xaml
+C:\Users\User\source\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_Content.g.cs
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe.config
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.pdb
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ButtonStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\DataGridStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\RadioButtonStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\TextBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.g.cs
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.g.cs
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.lref
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.g.resources
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.Properties.Resources.resources
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.exe
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.pdb
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\GroupBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\SliderStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\TabControlStyles.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\Lang\zh-TW.baml
+C:\Data Disk\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\Lang\en-US.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe.config
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.exe
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\bin\x64\Debug\WPFUI.pdb
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\Lang\en-US.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\Lang\zh-TW.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ButtonStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\CheckBoxStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\ComboBoxStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\DataGridStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\GroupBoxStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\RadioButtonStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\SliderStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\TabControlStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\UI\TextBoxStyles.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.g.cs
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.g.cs
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.cache
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI_MarkupCompile.lref
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\App.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\MainWindow.baml
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.g.resources
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.Properties.Resources.resources
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.GenerateResource.cache
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.csproj.CoreCompileInputs.cache
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.exe
+D:\Chimingkuei\repos\Reference\C#\WPFUI\WPFUI\obj\x64\Debug\WPFUI.pdb
