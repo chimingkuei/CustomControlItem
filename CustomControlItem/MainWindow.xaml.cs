@@ -80,6 +80,7 @@ namespace WPFUI
         private System.Windows.Forms.NotifyIcon notifyIcon = null;
         System.Windows.Forms.ContextMenu nIconMenu = new System.Windows.Forms.ContextMenu();
         System.Windows.Forms.MenuItem nIconMenuItem1 = new System.Windows.Forms.MenuItem();
+        System.Windows.Forms.MenuItem nIconMenuItem2 = new System.Windows.Forms.MenuItem();
         private void InitialTray()
         {
             notifyIcon = new System.Windows.Forms.NotifyIcon();
@@ -90,9 +91,14 @@ namespace WPFUI
             this.StateChanged += new EventHandler(WPFUI_StateChanged);
             //小圖示選單
             nIconMenuItem1.Index = 0;
-            nIconMenuItem1.Text = "結束";
+            nIconMenuItem1.Text = "結束1";
             nIconMenuItem1.Click += new System.EventHandler(nIconMenuItem1_Click);
             nIconMenu.MenuItems.Add(nIconMenuItem1);
+            notifyIcon.ContextMenu = nIconMenu;
+            nIconMenuItem2.Index = 0;
+            nIconMenuItem2.Text = "結束2";
+            nIconMenuItem2.Click += new System.EventHandler(nIconMenuItem1_Click);
+            nIconMenu.MenuItems.Add(nIconMenuItem2);
             notifyIcon.ContextMenu = nIconMenu;
         }
         private void notifyIcon_MouseClick(object sender, System.Windows.Forms.MouseEventArgs e)
