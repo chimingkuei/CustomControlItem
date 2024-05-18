@@ -21,12 +21,12 @@
         <CheckBox Style="{StaticResource BaseCheckBox}" Background="#5387b9" IsChecked="False" Content="Off" Tag="On" Margin="32,198,685,180"/>
         <RadioButton Style="{StaticResource BaseRadioButton}" Margin="29,168,721,218">是</RadioButton>
         <RadioButton Style="{StaticResource BaseRadioButton}" Margin="76,169,674,217">否</RadioButton>
-        <TextBox Style="{StaticResource BaseTextBox}" Tag="请输入内容..." Margin="14,359,668,38"/>
-        <ComboBox Width="Auto" Name="Cmb" Text="請選擇" Style="{StaticResource BaseComboBox}" Margin="30,292,647,96" Height="Auto">
+        <TextBox Style="{StaticResource BaseTextBox}" Tag="请输入内容..." Margin="33,380,649,17"/>
+        <ComboBox Width="Auto" Name="Cmb" Text="請選擇" Style="{StaticResource BaseComboBox}" Margin="29,321,648,67" Height="Auto">
             <ComboBoxItem>English</ComboBoxItem>
             <ComboBoxItem IsSelected="True">Chinese</ComboBoxItem>
         </ComboBox>
-        <ComboBox Style="{StaticResource AdvancedComboBox}" Name="comboBox" HorizontalAlignment="Left" Margin="10,234,0,138" Width="160" IsSynchronizedWithCurrentItem="True">
+        <ComboBox Style="{StaticResource AdvancedComboBox}" Name="comboBox" HorizontalAlignment="Left" Margin="10,244,0,129" Width="160" IsSynchronizedWithCurrentItem="True">
             <ComboBoxItem>English</ComboBoxItem>
             <ComboBoxItem IsSelected="True">Chinese</ComboBoxItem>
         </ComboBox>
