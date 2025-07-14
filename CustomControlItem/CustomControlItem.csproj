@@ -170,6 +170,7 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PreBuildEvent>copy "$(ProjectDir)Lang\en-US.xaml" "$(TargetDir)Lang\en-US.xaml"
+copy "$(ProjectDir)Lang\zh-TW.xaml" "$(TargetDir)Lang\zh-TW.xaml"
 </PreBuildEvent>
   </PropertyGroup>
 </Project>
